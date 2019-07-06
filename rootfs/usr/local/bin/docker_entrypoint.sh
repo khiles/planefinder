@@ -19,7 +19,7 @@ function end_secion_spacer {
 }
 
 
-DUMP1090_SERVER='dump1090'
+DUMP1090_SERVER='192.168.1.12'
 DUMP1090_PORT='30005'
 
 
